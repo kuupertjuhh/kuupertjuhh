@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuupertjuhh
-- 👀 I’m interested in Node.js, HTML, PHP & python
+- 👀 I’m interested in Node.js, HTML, PHP & Python
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
